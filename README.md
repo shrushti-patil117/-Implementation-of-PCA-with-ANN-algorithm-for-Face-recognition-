@@ -97,10 +97,5 @@ pip install -r requirements.txt
 ## 🔮 Future Work
 - Implement **CNN + PCA hybrid models** for improved accuracy.  
 - Add **real-time face recognition** using webcam input.  
-- Explore **transfer learning** with pre-trained models.  
+- Explore **transfer learning** with pre-trained models. 
 
-
-
----
-
-Would you like me to also create a **flow diagram (infographic-style)** showing how PCA feeds into ANN for face recognition? That would make your README more visually engaging and slide-ready.
